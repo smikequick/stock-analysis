@@ -14,7 +14,7 @@ Additionally, there was a more technical added layer to the overarching goal of 
 
 Through processes of refactoring and debugging, the following code was produced to decrease the processing time of the analysis. 
 
-### Refactored Code ###
+### *Refactored Code* ###
 
     Dim startTime As Single
     Dim endTime  As Single
@@ -149,11 +149,11 @@ Through processes of refactoring and debugging, the following code was produced 
 
 After refactoring the code, the timer illustrated the improvement in run time for the overall macro. This process was conducted for both 2017 and 2018.
 
-### 2017 Time After Refactoring ###
+### *2017 Time After Refactoring* ###
 
 <img width="259" alt="VBA_Challenge_2017" src="https://user-images.githubusercontent.com/87885677/133898485-579e4d44-8dd6-4654-bef7-9183428333db.png">
 
-### 2018 Time After Refactoring ###
+### *2018 Time After Refactoring* ###
 
 <img width="255" alt="VBA_Challenge_2018" src="https://user-images.githubusercontent.com/87885677/133898513-6ea25b08-4d0a-41cb-832d-f9998d68295e.png">
 
